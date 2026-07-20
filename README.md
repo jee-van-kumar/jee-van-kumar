@@ -8,7 +8,7 @@ I enjoy building AI applications that solve real-world problems. My interests in
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (Completed, awaiting convocation)
+- 🎓 B.Tech in Computer Science & Engineering 
 - 🤖 Interested in AI Engineering, Machine Learning, Deep Learning, and Generative AI
 - 💻 Building LLM-powered applications using LangChain and LangGraph
 - 📚 Currently learning advanced AI systems, MLOps, and scalable AI architectures
