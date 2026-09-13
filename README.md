@@ -1,136 +1,37 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=200&section=header&text=Jeevan%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Network%20Security&descAlignY=55&descSize=18" width="100%"/>
-</p>
+<h1 align="center">Hi 👋, I'm Jeevan Kumar</h1>
+<h3 align="center">An AI Engineer building GenAI, RAG & Agentic AI systems</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+real-time+AI+security+systems;Shipping+LLM+%2B+RAG+%2B+Agentic+AI+apps;Turning+ML+research+into+production+code" alt="Typing SVG" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jee-van-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="jee-van-kumar" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jee-van-kumar&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/jee-van-kumar?label=Followers&style=flat&color=6C63FF" alt="Followers" />
-  <a href="https://www.linkedin.com/in/jee-van-kumar-b14841323"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jk6802286@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+- 🔭 I’m currently working on **TripMate AI**
 
----
+- 🌱 I’m currently learning **Advanced Agentic AI, MCP, LangGraph, MLOps, scalable LLM architectures & AI system design**
 
-### 🚀 About Me
+- 👯 I’m looking to collaborate on [Open-source GenAI & Agentic AI projects](https://github.com/jee-van-kumar)
 
-- 🎓 Final-year Computer Science undergrad at **IIIT Raichur**
-- 🔐 Building an **AI-Based Real-Time APT Detection System** as my final year project — a hybrid ML/DL pipeline for network intrusion detection
-- 🧠 Focused on applied Machine Learning & Deep Learning, network security, and full-stack systems that ship
-- ☁️ Recently added AWS, Docker, and CI/CD to round out deployment skills
-- 🛰️ Also building **TripMate AI** on the side
+- 🤝 I’m looking for help with [Building scalable Agentic AI & LLM systems](https://github.com/jee-van-kumar)
 
-<details>
-<summary>🌱 Currently exploring</summary>
-<br>
+- 👨‍💻 All of my projects are available at [https://github.com/jee-van-kumar](https://github.com/jee-van-kumar)
 
-- Agentic AI & multi-agent systems
-- LangGraph & Model Context Protocol (MCP)
-- MLOps & scalable LLM architectures
-- AI system design at production scale
+- 📝 I regularly write articles on [AI Engineering & Generative AI](AI Engineering & Generative AI)
 
-</details>
+- 💬 Ask me about **Generative AI, RAG, AI Agents, LangChain, LangGraph, MCP, FastAPI & LLM applications**
 
----
+- 📫 How to reach me **jk6802286@gmail.com**
 
-### 🛠 Tech Stack
+- ⚡ Fun fact **I enjoy turning AI ideas into working products 🚀**
 
-**Languages, Web & Tools**
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,php,flask,react,nextjs,nodejs,mysql,mongodb,sqlite,aws,docker,git,github,vscode" />
+<a href="https://linkedin.com/in/jee-van-kumar-b14841323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jee-van-kumar-b14841323" height="30" width="40" /></a>
+<a href="https://kaggle.com/k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="k" height="30" width="40" /></a>
 </p>
 
-**AI / Machine Learning**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jee-van-kumar&show_icons=true&locale=en&layout=compact" alt="jee-van-kumar" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jee-van-kumar&show_icons=true&locale=en" alt="jee-van-kumar" /></p>
 
-### 🔭 Featured Work
-
-> #### 🛡️ AI-Based Real-Time APT Detection System — *Final Year Project*
-> Hybrid NIDS pipeline: live packet capture with Scapy, Random Forest + Autoencoder anomaly detection, CNN/BiLSTM classification, LIME explainability, and a real-time Flask-SocketIO dashboard. Trained on CICIDS2017/2018, tuned for constrained hardware (8GB RAM / 4GB VRAM).
->
-> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scapy](https://img.shields.io/badge/-Scapy-000000?style=flat-square) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask--SocketIO-000000?style=flat-square&logo=flask&logoColor=white)
->
-> *(repo link pending — add once public)*
-
-> #### 📊 Customer Churn Prediction
-> 80-cell end-to-end notebook on the Telco churn dataset — 11 models compared, SHAP explainability, full production-style structure.
->
-> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![SHAP](https://img.shields.io/badge/-SHAP-8A2BE2?style=flat-square)
->
-> *(repo link pending — add once public)*
-
-> #### 🏠 House Price Prediction
-> Regression pipeline with a feature-selection walkthrough.
->
-> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
->
-> *(repo link pending — add once public)*
-
-<p align="center">
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=jee-van-kumar&repo=medical-rag-chatbot&theme=tokyonight&hide_border=true" />
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=jee-van-kumar&repo=miniGPT&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=jee-van-kumar&repo=customer_behavior_analysis&theme=tokyonight&hide_border=true" />
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=jee-van-kumar&repo=netflix_data_analysis&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=jee-van-kumar&repo=taxi_fare_analysis&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jee-van-kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jee-van-kumar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jee-van-kumar&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jee-van-kumar&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jee-van-kumar&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jee-van-kumar/jee-van-kumar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-> This won't render until you add the workflow below — see setup notes.
-
----
-
-### 📫 Connect with me
-
-- 💼 LinkedIn: [jee-van-kumar-b14841323](https://www.linkedin.com/in/jee-van-kumar-b14841323)
-- 📧 Email: [jk6802286@gmail.com](mailto:jk6802286@gmail.com)
-- 🐙 GitHub: [@jee-van-kumar](https://github.com/jee-van-kumar)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer" width="100%"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jee-van-kumar&" alt="jee-van-kumar" /></p>
